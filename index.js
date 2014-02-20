@@ -3,9 +3,9 @@
  * Module Dependencies
  */
 
-var classes = require('classes')
-  , Emitter = require('emitter')
-  , events = require('events');
+var classes = require('component-classes')
+  , Emitter = require('component-emitter')
+  , events = require('component-events');
 
 /**
  * Expose `Dragdrop`.
